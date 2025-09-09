@@ -23,7 +23,7 @@ Las partes que lo componen las vemos en la imagen siguiente y en los apartados s
 
 <center>
 
-![Partes de la TdR STEAM](../img/uno/elementos-TdR-STEAM.png)  
+![Partes de la TdR STEAM](../img/TdR/elementos-TdR-STEAM.png)  
 
 </center>
 
@@ -34,7 +34,7 @@ Interfaz I2C o IIC conectados a los pines VCC, GND, SDA (A4) y SCL (A5). El pin 
 
 <center>
 
-![Conector I2C en la TdR STEAM](../img/uno/I2C_steam.png)  
+![Conector I2C en la TdR STEAM](../img/TdR/I2C_steam.png)  
 
 </center>
 
@@ -43,7 +43,7 @@ Son dos conectores para Entradas/Salidas digitales dotados de alimentación y co
 
 <center>
 
-![Conectores E/S digital](../img/uno/D3_D5_TdR.png)  
+![Conectores E/S digital](../img/TdR/D3_D5_TdR.png)  
 
 </center>
 
@@ -54,7 +54,7 @@ El puerto de comunicaciones serie nos permite conectar módulos Bluetooth o WiFi
 
 <center>
 
-![Comunicaciones serie](../img/uno/comm_TdR.png)  
+![Comunicaciones serie](../img/TdR/comm_TdR.png)  
 
 </center>
 
@@ -63,7 +63,7 @@ Conector para entrada analógica desde sensor externo conectado al pin A3.
 
 <center>
 
-![Entrada analógica](../img/uno/a3.png)  
+![Entrada analógica](../img/TdR/a3.png)  
 
 </center>
 
@@ -74,7 +74,7 @@ Los pulsadores SW1 y SW2 se conectan a D2 y D7 respectivamente y se configuran c
 
 <center>
 
-![Pulsadores SW1 y SW2](../img/uno/pulsadores_TdR.png)  
+![Pulsadores SW1 y SW2](../img/TdR/pulsadores_TdR.png)  
 
 </center>
 
@@ -83,7 +83,7 @@ El conector de comunicaciones Bluetooth y WiFi va acompañado de un conmutador (
 
 <center>
 
-![Comunicaciones serie](../img/uno/comm_TdR.png)  
+![Comunicaciones serie](../img/TdR/comm_TdR.png)  
 
 </center>
 
@@ -92,7 +92,7 @@ Botón de Reset conectado directamente a la entrada de reset de las placas. Sirv
 
 <center>
 
-![Reset](../img/uno/reset.png)  
+![Reset](../img/TdR/reset.png)  
 
 </center>
 
@@ -103,7 +103,7 @@ Diodos LED Azul (LED3) y Rojo (LED4) conectados a D13 y D12 respectivamente. Con
 
 <center>
 
-![Diodos LED](../img/uno/rojo_azul.png)  
+![Diodos LED](../img/TdR/rojo_azul.png)  
 
 </center>
 
@@ -112,7 +112,7 @@ El Led RGB o neopixel de la placa es del tipo 5050 conectado a los pines D6 (Red
 
 <center>
 
-![Led RGB](../img/uno/RGB_TdR.png)  
+![Led RGB](../img/TdR/RGB_TdR.png)  
 
 </center>
 
@@ -121,7 +121,7 @@ Sensor digital de Temperatura y Humedad DHT11 conectado como entrada a D4.
 
 <center>
 
-![DHT11](../img/uno/DHT11_TdR.png)  
+![DHT11](../img/TdR/DHT11_TdR.png)  
 
 </center>
 
@@ -130,7 +130,7 @@ Potenciómetro giratorio de 270º conectado como entrada analógica al pin A0.
 
 <center>
 
-![Potenciómetro](../img/uno/pot_TdR.png)  
+![Potenciómetro](../img/TdR/pot_TdR.png)  
 
 </center>
 
@@ -139,7 +139,7 @@ El zumbador Piezoeléctrico o buzzer es un pequeño altavoz conectado a la salid
 
 <center>
 
-![Buzzer](../img/uno/buzz_TdR.png)  
+![Buzzer](../img/TdR/buzz_TdR.png)  
 
 </center>
 
@@ -148,7 +148,7 @@ Diodo receptor de infrarrojos (IR) conectado a la entrada digital D11.
 
 <center>
 
-![Receptor IR](../img/uno/IR_TdR.png)  
+![Receptor IR](../img/TdR/IR_TdR.png)  
 
 </center>
 
@@ -157,7 +157,7 @@ Sensor de luminosidad o resistencia LDR conectada al pin analógico A1.
 
 <center>
 
-![LDR](../img/uno/LDR_TdR.png)  
+![LDR](../img/TdR/LDR_TdR.png)  
 
 </center>
 
@@ -166,6 +166,6 @@ Sensor de temperatura (LM35) conectado al pin analógico A2.
 
 <center>
 
-![LM35](../img/uno/LM35.png)  
+![LM35](../img/TdR/LM35.png)  
 
 </center>

@@ -250,7 +250,7 @@ Dentro de la estructura “**Inicializar**” colocamos el bloque de configuraci
 
 <center>
 
-![Establecer conexión USB](../img/uno/P_conex.png)  
+![Establecer conexión USB](../img/TdR/P_conex.png)  
 *Establecer conexión USB*
 
 </center>
@@ -259,7 +259,7 @@ Dentro de la estructura “**Inicializar**” colocamos el bloque de configuraci
 
 <center>
 
-![Subir el programa a la placa](../img/uno/P_subir.png)  
+![Subir el programa a la placa](../img/TdR/P_subir.png)  
 *Subir el programa a la placa*
 
 </center>
@@ -268,7 +268,7 @@ Para poder visualizar el monitor serie y comprobar qué mensajes está enviando 
 
 <center>
 
-![Abrir consola serie](../img/uno/P_abre_consola.png)  
+![Abrir consola serie](../img/TdR/P_abre_consola.png)  
 *Abrir consola serie*
 
 </center>
