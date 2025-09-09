@@ -46,7 +46,11 @@ extra:
 # 4. Navegación
 nav:
   - Introducción: index.md
-
+  - Imagina TdR STEAM:
+    - Antes de: TdR_STEAM/contTdR.md
+    - STEAMakersBlocks: TdR_STEAM/SMBlocks.md
+    - Retos: TdR_STEAM/retos.md
+    - Seguridad: TdR_STEAM/seg.md
 
 
 #- Ayuda:
